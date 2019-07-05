@@ -10,6 +10,9 @@ A simple test function to test the class methods.
 **Output:**
 
 Testing getString() function of the class...
+
 Class function to get the input; type something:hello
+
 Testing printString() function of the class...
+
 hello
